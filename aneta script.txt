@@ -1,23 +1,70 @@
 Slide 11
-But how health technology looks like now? Well, very promising. Most of, if not all of recent technology trends, find use also in medicine and healthcare. AI, VR, 3D printing... I'm sure by now we all are aware of those technologies and heard about them multiple times. People are trying to make healthcare easier for both patients and professionals for example by creating AI based chatbots where patients would be able to get simple medical advice. 3D printing aims in literally printing new organs for those who need them and we try to improve patient's care with multiple different IoMT devices which could for example run certain tests in real time, and give us access to medical information more easily and faster. Let's also not forget about psychiatry and brains - we improve in that area as well. Thanks to VR patients suffering with PTSD have chance to explore more accessible exposure therapy, and accessibility is the key word here. Not only PTDS patients, but even medical personnel benefits from that, as VR makes the process of fixing medical equipment much easier and faster. We all probably know how hard fixing something can be, and now imagine how hard it has to be with highly specialized stuff, hah!
+But how health technology looks like now? Well, very promising. 
+
+Most of, if not all of recent technology trends, find use also in medicine and healthcare. AI, VR, 3D printing... I'm sure by now we all are aware of those technologies, and heard about them multiple times. 
+
+People are trying to make healthcare easier for both patients and amd the staff, for example by creating AI based chatbots where patients would be able to get simple medical advice. 
+
+3D printing aims in literally printing new organs for those who need them, and we try to improve patient's care with multiple different IoMT devices, which could for example run certain tests in real time, and give us access to medical information more easily and faster. 
+
+Let's also not forget about psychiatry and brains - we improve in that area as well. Thanks to VR patients suffering with PTSD have chance to explore more accessible exposure therapy, and accessibility is the key word here. 
+
+Not only PTDS patients, but even medical personnel benefits from that, as VR makes the process of fixing medical equipment much easier and faster. 
+
+We all probably know how hard fixing something can be, and now imagine how hard it has to be with highly specialized stuff, hah!
+
 
 Slide 12
-So currently healthcare is improving in every aspect. Patient care, accessibility, diagnostics and treatment, preventive care, even costs are getting better. Future looks promising - imagine, you get very sick, for example get cancer. But all process of beating the cancer and dealing with medical costs is much faster, cheaper and most importantly safer! One another technology plays a crucial role in current medicine and will play enormous one in the future, and that is nanomedicine.
+So currently healthcare is improving in every aspect. 
+
+Patient care, accessibility, diagnostics and treatment, preventive care, even costs are getting better. 
+
+Future looks promising - imagine, you get very sick, for example get cancer. But all process of beating the cancer and dealing with medical costs is much cheaper, faster and most importantly safer! 
+
+One another technology plays a crucial role in current medicine and will play enormous one in the future, and that is nanomedicine.
+
 
 Slide 13
-What is nanomedicine though? As the name tells us, it's probably about something small. And indeed small, because nanomedicine is about nanoscale, so about things smaller than our blood cells. Here the diagram on right compares different sizes and that can give us an idea of how small we're talking about. 
+What is nanomedicine though? 
+
+As the name tells us, it's probably about something small. And indeed small, because nanomedicine is about nanoscale, so about things smaller than our blood cells. 
+
+Here the diagram on right compares different sizes and that can give us an idea of how small we're talking about. 
+
 
 Slide 14
-But how can nanomedicine help us? Well, let's go back to the cancer example. Small nanobots, so tiny robots could go into our body and move so precisely they could target only cancer affected cells and deliver medication only there. As we know cancer medication is destroying unhealthy cells, but sadly current treatments also affect the healthy ones. Because of that people get sick during receiving those treatments and that can result in different negative side effects. Nanobots could prevent that, also they could help in detecting diseases or tumours, and we'd be able to see them when they're not that big and didn't cause so much damage yet. Even when the damage would be done though, nanobots could help us in fixing affected areas and for example speed up regeneration of tissues or even organs.
+But how can nanomedicine help us? Well, let's go back to the cancer example. 
+
+Small nanobots, so tiny robots could go into our body and move so precisely, that they could target only cancer affected cells, and deliver medication only in specific area. 
+
+As we know cancer medication is destroying unhealthy cells, but sadly current treatments also affect the healthy ones. Because of that people get sick during receiving those treatments, and that can result in different negative and unnecesary side effects. 
+
+Nanobots could prevent that, also they could help in detecting diseases or tumours, and we'd be able to detect them when they're not that big and didn't cause that much damage yet. 
+
+Even when the damage would be done though, nanobots could help us in fixing affected areas for example by speed up regeneration of tissues or even organs.
+
 
 Slide 15
-Unfortunately, nanobots are out of reach for us now, mostly due to such small size. What we have though are nanobots bigger siblings - microbots!
+Unfortunately, nanobots are out of reach for us now, mostly due to the size. What we have though are nanobots bigger siblings - so microbots!
+
 
 Slide 16
-Microbots measure less than 1 mm and are also in early stages of development, but we started the development and have the functioning bots. Way from here to our final goal is still long, but things will only improve overtime! For example, researchers from University of California and professionals from Bionaut Lab's created usable microbots. 
+Microbots measure less than 1 mm and are in early stages of development... but we started the development and have the functioning bots! 
+
+Way from here to our final goal is still long, but things will only improve overtime! For example, researchers from University of California and professionals from Bionaut Lab's created usable microbots. 
+
 
 Slide 17
-University of California created micromotors which were then inserted into rodent's stomach and the bot moved around thanks to gastric acid. On left photo we can see how the bot looked like, and on the right one we can see its movement. 
+University of California created micromotors which were then inserted into rodent's stomach and the bot moved around thanks to gastric acid. 
+
+On left photo we can see how the bot looked like, and on the right one we can see its movement. 
+
 
 Slide 18
-Bionaut Labs on the other hand created a microbot directed for our brains. The goal is the same as I mentioned before, to precisely direct the problem and cause the least amount of damage possible. While working around brain area those two points are especially important and that's why microbots are perfect for the job! First image is the size of the bot, second one is a microbot inside of the animal's body. The microtobot is inserted to the spine and from that thanks to magnets it can freely travel towards the brain, for example to perform some kind of a surgery. Incredible!
+Bionaut Labs on the other hand created a microbot directed for our brains. The goal is the same as I mentioned before, to precisely direct the problem and cause the least amount of damage possible. 
+
+While working around the brain area, those two points are especially important and that's why microbots are perfect for the job! 
+
+First image is the size of the bot, second one is a microbot inside of the animal's body. 
+
+The microbot is inserted to the spine and from that, thanks to magnets, it can freely travel towards the brain, for example to perform some kind of a surgery. And I think all of that is incredible!
